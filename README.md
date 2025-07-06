@@ -25,9 +25,9 @@
 ### 🏆 Highlights
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **sim_game** | 2-D FRC match simulator with joystick & realistic physics | Flutter · Flame · Forge2D |
-| **steel-talons-library** | Co-developed an FRC robotics library | WPILIB · AdvantageKit · QuestNav · Photonvision|
+| **sim_game** | 2-D FRC Robotics game simulator. Uses realistic physics along with a mobile game engine to simulate the 2024 Cresendo FRC game | Flutter · Flame · Forge2D |
+| **steel-talons-library** | Co-developed an FRC robotics library for Team5427. | WPILIB · AdvantageKit · QuestNav · Photonvision|
 | **reefscape** | FRC 2025 Reefscape code for the Team5427 robot | WPILIB · AdvantageKit · QuestNav · Photonvision|
-| **musihelp** | AI music assistant to help begginer string musicians | Flutter · Supabase |
+| **musihelp** | AI music assistant to help beginner string musicians | Flutter · Supabase |
 | **planter** | AI powered plant detection app  | Flutter · Supabase |
 
